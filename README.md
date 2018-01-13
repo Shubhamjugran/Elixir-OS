@@ -25,7 +25,11 @@ Current Beta Version: 1.0
 Beta Release Date: 2018-01-11
 
 # Team Members: 
-Laksya Taneja
-Rohit Jaiswal
-Saurabh Sharma
-Shubham Jugran
+
+- Laksya Taneja
+
+- Rohit Jaiswal
+
+- Saurabh Sharma
+
+- Shubham Jugran
