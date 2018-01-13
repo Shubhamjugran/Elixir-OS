@@ -8,7 +8,13 @@ ElixirOS is a lightweight AOSP ROM. We focus on battery, performance and stabili
 (Redmi Note 4X)(Snapdragon Variant)
 
 ```markdown
-Syntax highlighted code block
+WANT TO BUILD ELIXIR-OS FOR MIDO?
+Sounds difficult but its pretty easy.
+
+- $ repo init -u https://github.com/ElixirOS/android -b android-8.1
+- $ source build/envsetup.sh
+- $ lunch elixir_mido-userdebug
+- $ brunch elixir_mido-userdebug
 
 # ROM Information: 
 ROM OS Version: 8.x Oreo
@@ -20,25 +26,3 @@ Status: Beta
 Current Beta Version: 1.0
 Beta Release Date: 2018-01-11
 
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Shubhamjugran/ElixirOS.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
