@@ -5,10 +5,10 @@ ElixirOS is a lightweight AOSP ROM. We focus on battery, performance and stabili
 ### SUPPORTED DEVICES:
 
 - mido
-(Redmi Note 4X)(Snapdragon Variant)
+ (Redmi Note 4X)(Snapdragon Variant)
 
-```markdown
-WANT TO BUILD ELIXIR-OS FOR MIDO?
+WANT TO BUILD ELIXIR-OS FOR MIDO ?
+
 Sounds difficult but its pretty easy.
 
 - $ repo init -u https://github.com/ElixirOS/android -b android-8.1
@@ -16,13 +16,20 @@ Sounds difficult but its pretty easy.
 - $ lunch elixir_mido-userdebug
 - $ brunch elixir_mido-userdebug
 
+
 # ROM Information: 
+
 ROM OS Version: 8.x Oreo
+
 ROM Firmware Required: Unlocked bootloader with Custom recovery installed
+
 Based On: AOSP
 
 ## Version Information:
+
 Status: Beta
+
 Current Beta Version: 1.0
+
 Beta Release Date: 2018-01-11
 
